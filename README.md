@@ -1,2 +1,2 @@
 # timeseries_diff
-Repository for differencing time series and revert to original 
+Python library for differencing time series and revert to original 
